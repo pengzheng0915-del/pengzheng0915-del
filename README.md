@@ -16,7 +16,7 @@
 ## 先自测，再决定
 
 - 官网：https://kevinsolo.cn/
-- 免费测评：https://kevinsolo.cn/report/
+- 免费测评：https://kevinsolo.cn/quiz/
 - 1999 元经验价值评估：https://kevinsolo.cn/method/experience-asset-assessment/
 - 9800 元个人知识产品开发：https://kevinsolo.cn/develop-9800/
 - 微信：kevin0915（官网公开）
